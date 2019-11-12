@@ -4,7 +4,7 @@ This is a project for SSL Lab CS213 at IIT Dharwad (Autumn 2019) by Team 14. Aim
 
 ## Core Team members
 * Akhilesh Bharatwaj
-* Brahmadevara Sai Yashwant
+* Brahmadevara Sai Yashwanth
 * Paritosh Gavali
 * Rupesh Kalantre
 
