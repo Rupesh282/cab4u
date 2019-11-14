@@ -55,4 +55,4 @@ Enter the following command in the SQL command line to make the required SQL tab
         create table history(p_username varchar(120),d_username varchar(120),initial int(11),final int(11), fare int(11));
 
 * You need to add location maually to the *location table* in SQL.
-* <br>Update cab4u/pari/database.php and cab4u/login_info.php according to your system.
+* Update cab4u/pari/database.php and cab4u/login_info.php according to your system.
