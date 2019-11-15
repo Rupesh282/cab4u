@@ -3,7 +3,7 @@
 This is a project for SSL Lab CS213 at IIT Dharwad (Autumn 2019) by Team 14. Aim is to create website application for cab booking which handles the both driver and passenger.
 
 ## Core Team members
-* Akhilesh Bharatwaj
+* Akhilesh Bharadwaj
 * Brahmadevara Sai Yashwanth
 * Paritosh Gavali
 * Rupesh Kalantre
