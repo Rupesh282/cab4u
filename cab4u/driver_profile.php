@@ -2,6 +2,7 @@
 	
 	session_start();
 
+    // finding error in the http request
 	function Error($errno,$errstr){
 		echo "<script type='text/javascript'>alert('ERROR : $errstr');</script>;";
 		die();
@@ -47,13 +48,11 @@
 	//mysqli_close($conn);
 	
 	//main program begins
-	// $redirect = 'driver_wallet.php';
 	// <br>location : $row[3],$row[5]; //add in below echo 
 	echo "<p>username : $row[1]
         <br>name : $row[0]
         <br> status: online";
 	echo "<br>balance : $row[4]</p>";
-	// echo "<br><br><br><button onclick='<script>setTimeout(location.href=$redirect,0);</script>'>Add money in wallet</button>";
 
 
 ?>
