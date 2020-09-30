@@ -1,6 +1,6 @@
 # Cab4U
 
-This is a project for SSL Lab CS213 at IIT Dharwad (Autumn 2019) by Team 14. Aim is to create website application for cab booking which handles the both driver and passenger.
+This is a project for SSL Lab CS213 at IIT Dharwad (Autumn 2019) by Team 4Teen(14). Aim is to create website application for cab booking which handles the both driver and passenger.
 
 ## Core Team members
 * Akhilesh Bharatwaj
